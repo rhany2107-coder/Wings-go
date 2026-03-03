@@ -1,2 +1,2 @@
-# Wings& go
-## A branding project for a modern Fried chicken restaurant called "Crispy Crunch", with a unique visual identity, packaging, digital menu boards, and a 15-post for social media campaign designed to stand out in a competitive market.
+# Wings & go
+## A dynamic branding project for a fast-food restaurant specializing in chicken wings. The project focuses on creating a high-energy visual identity, packaging, and digital menu boards, along with a 15-post social media campaign designed to compete with major market players
