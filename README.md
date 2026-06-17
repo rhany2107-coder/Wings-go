@@ -13,6 +13,7 @@
 
 ## Instuctor
 **[ Andrew Ibrahim]**
-
 ---
-[Wings & Go Project](./wings%20and%20go.jpg)
+![alt](image-link)
+---
+[git](http://githup.com/)
