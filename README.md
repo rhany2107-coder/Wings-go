@@ -15,4 +15,4 @@
 **[ Andrew Ibrahim]**
 
 ---
-![Wings & Go](https://raw.githubusercontent.com/malakwalid10015-art/wings&go/main/wings&goproject)
+[Wings & Go Project](./wings-go.jpg)
