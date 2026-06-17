@@ -15,4 +15,4 @@
 **[ Andrew Ibrahim]**
 
 ---
-[Wings & Go Project](./wings-go.jpg)
+[Wings & Go Project](./wings%20and%20go.jpg)
