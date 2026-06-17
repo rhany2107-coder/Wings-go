@@ -16,4 +16,4 @@
 ---
 ![wings-and-go.jpg](image-link)
 ---
-[git](http://githup.com/)
+[Wings & Go Project](./wings-and-go.jpg)
