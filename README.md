@@ -14,6 +14,6 @@
 ## Instuctor
 **[ Andrew Ibrahim]**
 ---
-![alt](image-link)
+![wingsandgojpg](image-link)
 ---
 [git](http://githup.com/)
