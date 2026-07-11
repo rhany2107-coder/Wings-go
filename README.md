@@ -4,8 +4,6 @@
 ---
 
 ## Team Members
-- **[Rania Hany]**
-- **[Abanoub Hany]**
 - **[Malak Walid]**
 - **[Peter Gad]**
   
