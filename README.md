@@ -14,7 +14,4 @@
 ## Instuctor
 **[ Andrew Ibrahim]**
 ---
-![Wings & Go](./wings-and-go.jpg)
-
-[Wings & Go Project](./wings-and-go.jpg)
 [Wings & Go Project Files](https://drive.google.com/drive/folders/1RTOWnzg20EvgfgvkHySwO5SHCL6Q7E1d)
